@@ -86,14 +86,17 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarvesh-varode/">
-  <img src="https://img.shields.io/badge/-Sarvesh%20Varode-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/-Sarvesh%20Varode-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
   <a href="https://www.instagram.com/sarveshh_0927/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-  <a href="mailto:sarveshvarode545@gmail.com"><img src="https://img.shields.io/badge/-sarveshvarode545@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/sarveshvarode092704"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:sarveshvarode545@gmail.com">
+    <img src="https://img.shields.io/badge/-sarveshvarode545@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sarveshvarode092704">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
