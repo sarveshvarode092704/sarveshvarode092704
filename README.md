@@ -84,20 +84,11 @@
 
 ### 📡 Let's Connect!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sarvesh-varode/">
-    <img src="https://img.shields.io/badge/-Sarvesh%20Varode-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/sarveshh_0927/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:sarveshvarode545@gmail.com">
-    <img src="https://img.shields.io/badge/-sarveshvarode545@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sarveshvarode092704">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sarveshh_0927/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvesh-varode/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarveshvarode545@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarveshvarode092704)
+
 
 ---
 
