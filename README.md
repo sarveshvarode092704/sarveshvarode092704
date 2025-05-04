@@ -58,11 +58,19 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
+
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=sarveshvarode092704&show_icons=true&theme=tokyonight" alt="Sarvesh's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasbargujepatil&theme=dark&hide_border=false" alt="GitHub Streak" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshvarode092704&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshvarode092704&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+
+</div>
+
 
 ---
 
