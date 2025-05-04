@@ -60,6 +60,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarveshvarode092704&show_icons=true&theme=tokyonight" alt="Sarvesh's GitHub stats" />
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=tejasbargujepatil&theme=dark&hide_border=false)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshvarode092704&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
