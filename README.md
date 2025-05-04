@@ -12,7 +12,7 @@
 
 ---
 
-### 🙋‍♂️ About me
+### 🙋‍♂️ About Me
 
 - 🎓 B.Sc Computer Science @ Yashwantrao Mohite College, Pune (CGPA: 9.13)
 - 💻 Machine Learning Intern @ Cognifyz Technologies
