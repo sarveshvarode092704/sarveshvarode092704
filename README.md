@@ -66,7 +66,7 @@
 ---
 
 ## 🏆 **GitHub Trophies:**
-![](https://github-profile-trophy.vercel.app/?username=sarveshvarode092704&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sarveshvarode092704&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
