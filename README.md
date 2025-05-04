@@ -57,7 +57,9 @@ Other: Flask, Android Studio, XML, Git
 ### 📡 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarvesh-varode/"><img src="https://img.shields.io/badge/-Sarvesh%20Varode-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sarvesh-varode/">
+  <img src="https://img.shields.io/badge/-Sarvesh%20Varode-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+</a>
   <a href="mailto:sarveshvarode545@gmail.com"><img src="https://img.shields.io/badge/-sarveshvarode545@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/sarveshvarode092704"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
