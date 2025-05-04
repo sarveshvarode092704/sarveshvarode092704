@@ -59,16 +59,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sarveshvarode092704&show_icons=true&theme=tokyonight" alt="Sarvesh's GitHub stats" />
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshvarode092704&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshvarode092704&layout=compact&theme=tokyonight" alt="Top Langs" />
-
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejasbargujepatil&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasbargujepatil&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasbargujepatil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 </div>
 
 
