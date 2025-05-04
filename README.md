@@ -51,8 +51,8 @@
 ---
 
 ### 🧠 Featured Projects
-- **🛡️ ArcSight Defence** – Smart weapon and equipment recommendation system for Indian Paramilitary forces
-- **🍽️ Restrolyze** – Restaurant analytics Android app to optimize customer satisfaction
+- **🛡️ ArcSight Defence** – Smart weapon and equipment recommendation & prediction system for analysis of Indian Paramilitary forces
+- **🍽️ Restrolyze** – Restaurant analytics Android app to optimize customer satisfaction and restaurnat growth
 
 ---
 
