@@ -12,6 +12,8 @@
 
 ---
 
+### 🙋‍♂️ About me
+
 - 🎓 B.Sc Computer Science @ Yashwantrao Mohite College, Pune (CGPA: 9.13)
 - 💻 Machine Learning Intern @ Cognifyz Technologies
 - 💡 Currently working on **Farmovate** – a startup in AgriTech (ML Developer & Data Analyst)
@@ -22,7 +24,6 @@
 
 ---
 
-### 🛠️ Tech Stack
 ### 🚀 Tech Stack
 
 #### Languages
