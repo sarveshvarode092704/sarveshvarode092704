@@ -64,7 +64,4 @@ Other: Flask, Android Studio, XML, Git
 
 ---
 
-<div align="center" style="background-color:#1f1f1f; color:#00ffcc; padding: 15px; border-radius: 10px; font-family: 'Segoe UI', sans-serif; font-size: 16px;">
-  ⚡ <i>"Learning never stops, and neither does curiosity!"</i><br><br>
-  💡 <i>"Keep coding, keep exploring. The future is yours to build!"</i>
-</div>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
