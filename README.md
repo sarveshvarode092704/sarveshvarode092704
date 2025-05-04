@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Machine Learning Enthusiast | Android Developer | Future Tech Explorer 🎮</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Futuristic+GitHub+Profile;Machine+Learning+%7C+Data+Science+%7C+AI+Engineering;Building+Innovative+Tech+Solutions+for+Tomorrow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Machine+Learning+%7C+Data+Science+%7C+AI+Engineering;Building+Innovative+Tech+Solutions+for+Tomorrow" alt="Typing SVG" />
 </p>
 
 <p align="center">
